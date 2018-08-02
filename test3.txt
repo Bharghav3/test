@@ -1,2 +1,3 @@
 to test the fetch merge
 adding second line
+adding 3rd line to my remote
